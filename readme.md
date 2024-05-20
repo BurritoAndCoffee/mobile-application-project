@@ -12,7 +12,7 @@ git clone https://github.com/BurritoAndCoffee/mobile-application-project.git
 Next, change directory by entering the downloaded file and install dependencies:
 
 ```bash
-npm install
+yarn install
 ```
 
 Run using expo, and run the expo app on Android:
