@@ -11,10 +11,9 @@ then, on your terminal, enter your directory of choice and enter:
 git clone https://github.com/BurritoAndCoffee/mobile-application-project.git
 ```
 
-Next, change directory and enter the downloaded file and install dependencies:
+Next, change directory by entering the downloaded file and install dependencies:
 
 ```bash
-cd weather-app
 npm install
 ```
 
