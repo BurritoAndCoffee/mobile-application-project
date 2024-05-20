@@ -8,7 +8,7 @@ On GitHub, click the "code" button on the top and get the web URL.
 then, on your terminal, enter your directory of choice and enter:
 
 ```bash
-git clone COPIED-URL
+git clone https://github.com/BurritoAndCoffee/mobile-application-project.git
 ```
 
 Next, change directory and enter the downloaded file and install dependencies:
