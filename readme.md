@@ -4,9 +4,7 @@ Uses [NativeWind](https://nativewind.dev/) for styling.
 
 ## installment
 
-On GitHub, click the "code" button on the top and get the web URL.
-then, on your terminal, enter your directory of choice and enter:
-
+On your terminal, enter your directory of choice and enter:
 ```bash
 git clone https://github.com/BurritoAndCoffee/mobile-application-project.git
 ```
